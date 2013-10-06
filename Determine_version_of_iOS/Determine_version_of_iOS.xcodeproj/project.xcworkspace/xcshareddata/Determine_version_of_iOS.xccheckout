@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4AFE39C7-473D-4C0D-8289-CD180B54D2D3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Determine_version_of_iOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CD50A5ED-3BA9-46CB-8162-33189A5F3F13</key>
+		<string>https://github.com/navzou/try-determine-version-of-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Determine_version_of_iOS/Determine_version_of_iOS.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CD50A5ED-3BA9-46CB-8162-33189A5F3F13</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/navzou/try-determine-version-of-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CD50A5ED-3BA9-46CB-8162-33189A5F3F13</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CD50A5ED-3BA9-46CB-8162-33189A5F3F13</string>
+			<key>IDESourceControlWCCName</key>
+			<string>try-determine-version-of-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
